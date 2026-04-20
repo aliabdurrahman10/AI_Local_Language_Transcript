@@ -1,0 +1,17 @@
+# Jangan upload file rahasia
+.env
+
+# Folder hasil transkrip
+Hasil/
+Audio/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File hasil transkrip
+*.docx
+*.pdf
+*.json
+*.txt
+
