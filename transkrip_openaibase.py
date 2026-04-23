@@ -53,7 +53,7 @@ LANGUAGE = "id"
 # Petunjuk singkat untuk model teks
 TRANSCRIPT_PROMPT = (
     "Transkripsikan percakapan apa adanya dalam bahasa Indonesia. "
-    "Audio bisa memuat kata serapan lokal dan dialek Bengkulu. "
+    "Audio bisa memuat kata serapan dan dialek lokal "
     "Jangan merangkum. Pertahankan ucapan tidak baku sejauh mungkin."
 )
 

@@ -204,28 +204,11 @@ Tolong transkripkan file audio berikut dengan kualitas setinggi mungkin.
 Tujuan:
 - menghasilkan transkrip VERBATIM
 - sedekat mungkin dengan ucapan asli
-- mempertahankan campuran Bahasa Indonesia dan dialek Bengkulu
+- mempertahankan campuran Bahasa Indonesia dan dialek lokal
 - jangan merapikan isi secara berlebihan
 - jangan meringkas
 - jangan menghilangkan kata pengisi bila terdengar jelas
 
-Konteks:
-- Ini wawancara lapangan tentang nelayan, PLTU, tangkapan ikan, kerusakan karang, limbah air panas, polusi batu bara, biaya solar, dan kondisi Teluk Sepang.
-- Pewawancara bisa jadi mahasiswa/peneliti.
-- Penutur dapat menggunakan Bahasa Indonesia campur dialek Bengkulu.
-
-Aturan penulisan:
-1. Gunakan format transkrip dengan timestamp.
-2. Tulis timestamp setiap pergantian pembicara atau saat topik berpindah jelas.
-3. Format yang dipakai:
-   [HH:MM:SS] Pembicara 1: isi ucapan
-4. Kalau identitas pembicara tidak jelas, gunakan label netral seperti Pembicara 1, Pembicara 2, dst.
-5. Kalau ada suara latar penting, tulis dalam kurung siku, misalnya [suara ombak], [suara mesin], [tertawa], [tidak jelas].
-6. Kalau ada bagian yang tidak terdengar jelas, tulis [tidak jelas] dan jangan mengarang.
-7. Jangan membuat kesimpulan. Hanya transkrip.
-8. Utamakan ketelitian kata dan urutan ujaran.
-9. Jangan mengubah dialek Bengkulu menjadi bahasa baku.
-10. Jangan keluarkan penjelasan tambahan di luar transkrip.
 
 Nama file:
 {audio_name}
