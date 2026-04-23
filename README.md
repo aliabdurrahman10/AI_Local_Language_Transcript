@@ -2,6 +2,10 @@
 
 Repository ini menyediakan dua script Python untuk membantu proses transkripsi batch file audio wawancara lapangan ke beberapa format output. Proyek ini ditujukan untuk kebutuhan dokumentasi, penelitian, dan lampiran tugas akhir, terutama untuk audio berbahasa Indonesia yang dapat bercampur dengan dialek lokal.
 
+<p align="center">
+  <img src="./assets/pipeline-ai.png" alt="AI Local Transcript Pipeline" width="1000">
+</p>
+
 ## Gambaran Umum
 
 Terdapat dua jalur transkripsi yang dapat digunakan sesuai kebutuhan:
